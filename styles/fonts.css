@@ -1,0 +1,10 @@
+@font-face {
+    font-family: inter;
+    src: url(../Fonts/inter/Inter-Regular.ttf);
+  }
+ 
+
+  @font-face {
+    font-family: poppins;
+    src: url(../Fonts/Poppins/Poppins-Regular.ttf);
+  }
