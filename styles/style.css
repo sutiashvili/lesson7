@@ -126,9 +126,9 @@
  }
 
  .mask{
-   margin-top: 60px;
-   margin-bottom: 130px;
-   width: 1220px;
+   /* margin-top: 60px;
+   margin-bottom: 130px; */
+   width: 100%;
 
  }
 
@@ -138,6 +138,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+.vd{
+    margin-top: 60px;
 }
 
 .vd-text{
@@ -151,7 +156,7 @@
     position: absolute;
     width: 64.5px;
     height:64.5px;
-    bottom: 143.5px;
+    bottom: 58.5px;
     background-color: #6B77E5;
     border-radius: 50%;
     display: flex;
